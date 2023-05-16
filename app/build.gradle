@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.formulaLabs.mntr'
+    namespace 'com.formulaLabs.project'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.formulaLabs.mntr"
+        applicationId "com.formulaLabs.project"
         minSdk 24
         targetSdk 33
         versionCode 1
